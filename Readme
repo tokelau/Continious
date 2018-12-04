@@ -1,7 +1,6 @@
 Написано на основе CMU Sphinx, pocketsphinx и исходно примера continious.c (https://github.com/cmusphinx/pocketsphinx/blob/master/src/programs/continuous.c)
 
 Начало
-======
 Во-первых, нужны библиотеки "pocketsphinx.lib" и "sphinxbase.lib"
 Они скачиваются вместе со всем пакетом Sphinx (https://sourceforge.net/projects/cmusphinx/files/)
 Нужно положить их в каталог с Вашим проектом
@@ -12,3 +11,18 @@
 Не забудьте указать путь до Вашей папки с моделями языка
 
 Все, удачи. 
+
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
+
+Кроме того, H1 и H2 можно обозначить подчеркиванием:
+
+Alt-H1
+======
+
+Alt-H2
+------
