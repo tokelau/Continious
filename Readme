@@ -1,6 +1,7 @@
 Написано на основе CMU Sphinx, pocketsphinx и исходно примера continious.c (https://github.com/cmusphinx/pocketsphinx/blob/master/src/programs/continuous.c)
 
-## Начало
+Начало
+======
 Во-первых, нужны библиотеки "pocketsphinx.lib" и "sphinxbase.lib"
 Они скачиваются вместе со всем пакетом Sphinx (https://sourceforge.net/projects/cmusphinx/files/)
 Нужно положить их в каталог с Вашим проектом
